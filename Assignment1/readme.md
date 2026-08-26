@@ -1,6 +1,6 @@
 # Statistical Inference for HEP Problems
 
-This repository contains work related to statistical methods and experiments in High Energy Physics.
+.
 
 - `Assingment1_HEPSTATISTICAL.ipynb` — Assignment Notebook.
 - `GM_Counting_Experiment.ipynb` — Self explanatory notebook for the Geiger–Müller counting experiment in context of what we have discussed so far in this modular course.
